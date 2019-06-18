@@ -20,3 +20,5 @@ For the second part, to predict the property prices based on renovatable feature
 - Apply feature engineering to make new features which are more relevant to the sales price
 - Apply feature selection by eliminating low variance and highly correlated features
 - Apply linear regression and tune the hyperparameter to see how accurately your model can explain the variance which is not explained by the first model.
+
+[Jupyter notebook](https://github.com/krutika731/Ames-House-price-prediction/blob/master/ames_house_price_prediction.ipynb)
